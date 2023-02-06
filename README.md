@@ -1,5 +1,5 @@
 # Introduction
-A bunch of C++ programs which deal with Sudoku Puzzles, Sudoku Puzzle Validation and Sudoku Puzzle Generation.
+A bunch of C++ programs which deal with Sudoku Puzzles, Sudoku Puzzle Validation.
 
 
 
